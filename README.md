@@ -50,7 +50,7 @@ A table with the tradable cryptocurrencies was created using hvplot.
 A scatter plot was created with TotalCoinsMinted on the x-axis and TotalCoinSupple on the y-axis the shows the CoinName when you hover over the data point.
 
 ![TotalCoinMined_vs_TotalCoinSupply](https://user-images.githubusercontent.com/36451701/130335269-adfcc66f-f50f-4537-82b1-38471284d9be.png)
-
+- This plot in 2-D does not show a clear seperation in the four clusters.
 
 ## Cryptocurrencies Analysis Project Summary:
 
