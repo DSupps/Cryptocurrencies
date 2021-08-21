@@ -21,6 +21,7 @@
 ### Resources:
 Data Sources:
      - [crypto_data.csv](https://github.com/DSupps/Cryptocurrencies/blob/main/Resources/crypto_data.csv)
+
 Software:
      - Jupyter Notebook 6.1.4
      - Python 3.8.5
