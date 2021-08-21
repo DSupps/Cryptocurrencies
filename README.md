@@ -37,6 +37,12 @@ Software:
 
 ![3d_scatter_deliverable_4_only](https://user-images.githubusercontent.com/36451701/130335173-cc1c7815-17d1-467d-8b99-0d11fa055651.png)
 
+### Tradable Cryptocurrencies Table:
+
+![Tradable_Cryptocurrencies_Table](https://user-images.githubusercontent.com/36451701/130335227-52ad1028-4b3e-4ac7-b5df-62e4b9c4e41c.png)
+
+
+
 
 ## Cryptocurrencies Analysis Project Summary:
 
