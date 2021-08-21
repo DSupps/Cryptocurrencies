@@ -30,13 +30,14 @@ Software:
 ## Cryptocurrencies Analysis Project Results:
 
 ### Clustering Crytocurrencies Using K-Means:
-the number of clusters needed was unknown, so to find the best number an Elbow Curve was plotted using hvPlot.
+The number of clusters needed was unknown, so to find the best number an Elbow Curve was plotted using hvPlot.
 
 ![elbow_curve_2](https://user-images.githubusercontent.com/36451701/130334995-7179d5dc-f5f4-4079-bf56-4004fd5fb54a.png)
 - The best value for k is cleary 4
 - 4 clusters can confidently be used in the K-Means model
 
 ### Visualizing Cryptocurrencies Results:
+Using the PCA model with three principal components and knowledge of creating scatter plots with Plotly Express and hvplot, four distinct groups were visualized in 3-D. 
 
 ![3d_scatter_deliverable_4_only](https://user-images.githubusercontent.com/36451701/130335173-cc1c7815-17d1-467d-8b99-0d11fa055651.png)
 
