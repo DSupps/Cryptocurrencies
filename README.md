@@ -41,6 +41,9 @@ Software:
 
 ![Tradable_Cryptocurrencies_Table](https://user-images.githubusercontent.com/36451701/130335227-52ad1028-4b3e-4ac7-b5df-62e4b9c4e41c.png)
 
+### 2-D TotalCoinsMined vs TotalCoinSupple
+
+![TotalCoinMined_vs_TotalCoinSupply](https://user-images.githubusercontent.com/36451701/130335269-adfcc66f-f50f-4537-82b1-38471284d9be.png)
 
 
 
