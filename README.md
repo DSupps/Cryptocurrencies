@@ -47,6 +47,7 @@ A table with the tradable cryptocurrencies was created using hvplot.
 ![Tradable_Cryptocurrencies_Table](https://user-images.githubusercontent.com/36451701/130335227-52ad1028-4b3e-4ac7-b5df-62e4b9c4e41c.png)
 
 ### 2-D TotalCoinsMined vs TotalCoinSupply:
+A scatter plot was created with TotalCoinsMinted on the x-axis and TotalCoinSupple on the y-axis the shows the CoinName when you hover over the data point.
 
 ![TotalCoinMined_vs_TotalCoinSupply](https://user-images.githubusercontent.com/36451701/130335269-adfcc66f-f50f-4537-82b1-38471284d9be.png)
 
