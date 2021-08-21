@@ -30,8 +30,11 @@ Software:
 ## Cryptocurrencies Analysis Project Results:
 
 ### Clustering Crytocurrencies Using K-Means:
+the number of clusters needed was unknown, so to find the best number an Elbow Curve was plotted using hvPlot.
 
 ![elbow_curve_2](https://user-images.githubusercontent.com/36451701/130334995-7179d5dc-f5f4-4079-bf56-4004fd5fb54a.png)
+- The best value for k is cleary 4
+- 4 clusters can confidently be used in the K-Means model
 
 ### Visualizing Cryptocurrencies Results:
 
