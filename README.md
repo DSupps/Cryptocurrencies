@@ -29,10 +29,13 @@ Software:
   
 ## Cryptocurrencies Analysis Project Results:
 
-### Clustering Crytocurrencies Using K-Means"
+### Clustering Crytocurrencies Using K-Means:
 
 ![elbow_curve_2](https://user-images.githubusercontent.com/36451701/130334995-7179d5dc-f5f4-4079-bf56-4004fd5fb54a.png)
 
+### Visualizing Cryptocurrencies Results:
+
+![3d_scatter_deliverable_4_only](https://user-images.githubusercontent.com/36451701/130335173-cc1c7815-17d1-467d-8b99-0d11fa055651.png)
 
 
 ## Cryptocurrencies Analysis Project Summary:
