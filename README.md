@@ -33,8 +33,8 @@ Software:
 The number of clusters needed was unknown, so to find the best number an Elbow Curve was plotted using hvPlot.
 
 ![elbow_curve_2](https://user-images.githubusercontent.com/36451701/130334995-7179d5dc-f5f4-4079-bf56-4004fd5fb54a.png)
-- The best value for k is cleary 4
-- 4 clusters can confidently be used in the K-Means model
+- The best value for k is clearly 4.
+- 4 clusters can confidently be used in the K-Means model.
 
 ### Visualizing Cryptocurrencies Results:
 Using the PCA algorithm with three principal components and knowledge of creating scatter plots with Plotly Express and hvplot, four distinct clusters of cryptocurrencies were visualized in 3-D. 
@@ -47,7 +47,7 @@ A table with the tradable cryptocurrencies was created using hvplot.
 ![Tradable_Cryptocurrencies_Table](https://user-images.githubusercontent.com/36451701/130335227-52ad1028-4b3e-4ac7-b5df-62e4b9c4e41c.png)
 
 ### 2-D TotalCoinsMined vs TotalCoinSupply:
-A scatter plot was created with TotalCoinsMinted on the x-axis and TotalCoinSupple on the y-axis the shows the CoinName when you hover over the data point.
+A scatter plot was created with TotalCoinsMinted on the x-axis and TotalCoinSupply on the y-axis the shows the CoinName when you hover over the data point.
 
 ![TotalCoinMined_vs_TotalCoinSupply](https://user-images.githubusercontent.com/36451701/130335269-adfcc66f-f50f-4537-82b1-38471284d9be.png)
 - This plot in 2-D does not show a clear seperation in the four clusters.
