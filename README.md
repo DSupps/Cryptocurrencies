@@ -37,11 +37,12 @@ The number of clusters needed was unknown, so to find the best number an Elbow C
 - 4 clusters can confidently be used in the K-Means model
 
 ### Visualizing Cryptocurrencies Results:
-Using the PCA algorithm with three principal components and knowledge of creating scatter plots with Plotly Express and hvplot, four distinct groups of cryptocurrencies were visualized in 3-D. 
+Using the PCA algorithm with three principal components and knowledge of creating scatter plots with Plotly Express and hvplot, four distinct clusters of cryptocurrencies were visualized in 3-D. 
 
 ![3d_scatter_deliverable_4_only](https://user-images.githubusercontent.com/36451701/130335173-cc1c7815-17d1-467d-8b99-0d11fa055651.png)
 
 ### Tradable Cryptocurrencies Table:
+A table with the tradable cryptocurrencies was created using hvplot.
 
 ![Tradable_Cryptocurrencies_Table](https://user-images.githubusercontent.com/36451701/130335227-52ad1028-4b3e-4ac7-b5df-62e4b9c4e41c.png)
 
