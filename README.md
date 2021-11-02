@@ -1,6 +1,6 @@
 # Cryptocurrencies Analysis
+![Cryptocurrency-](https://user-images.githubusercontent.com/36451701/139772328-3f1d9036-2170-4394-ab51-8ca37e5bbb51.jpg)
 
-![cryptocurrencies](https://user-images.githubusercontent.com/36451701/139772227-ae0a7b4c-cebd-4796-92b5-29216cad9ee4.jpg)
 
 ##  Cryptocurrencies Analysis Project Overview:
 *Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. To help them, a report will be created that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.*
