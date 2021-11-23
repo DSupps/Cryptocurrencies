@@ -20,7 +20,7 @@
 - Deliverable 3: Clustering Cryptocurrencies Using K-means
 - Deliverable 4: Visualizing Cryptocurrencies Results
 
-### Resources:
+### Project Resources:
 Data Sources:
      - [crypto_data.csv](https://github.com/DSupps/Cryptocurrencies/blob/main/Resources/crypto_data.csv)
 
