@@ -57,3 +57,4 @@ A scatter plot was created with TotalCoinsMinted on the x-axis and TotalCoinSupp
 ## Cryptocurrencies Analysis Project Summary:
 Based on this analysis we have discovered that there are 532 tradable currencies on the market and they can be divided into four different classification groups. -
 
+- This was done by David Supple
